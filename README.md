@@ -26,7 +26,7 @@ Maheep Kaushal, maheepkaushal@gmail.com
 
 ## Recording
 
-https://github.com/Maheepk/ShoppingCartDemo/blob/main/rec.mp4
+![image](https://github.com/Maheepk/ShoppingCartDemo/blob/main/rec.mp4)
 
 ## License
 
