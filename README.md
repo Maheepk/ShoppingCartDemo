@@ -24,6 +24,10 @@ The project was developed with the following concepts in mind:
 
 Maheep Kaushal, maheepkaushal@gmail.com
 
+## Recording
+
+https://github.com/Maheepk/ShoppingCartDemo/blob/main/rec.mp4
+
 ## License
 
 Crypto is available under the MIT license. See the LICENSE file for more info.
