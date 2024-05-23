@@ -27,6 +27,8 @@ Maheep Kaushal, maheepkaushal@gmail.com
 ## Recording
 
 ![Watch the video](https://github.com/Maheepk/ShoppingCartDemo/blob/main/rec.mp4)
+![image](https://github.com/Maheepk/ShoppingCartDemo/blob/main/re2.png)
+![image](https://github.com/Maheepk/ShoppingCartDemo/blob/main/re1.png)
 
 ## License
 
